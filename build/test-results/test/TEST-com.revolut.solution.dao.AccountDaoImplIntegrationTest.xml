@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.revolut.solution.dao.AccountDaoImplIntegrationTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-11-03T21:34:10" hostname="MacBook-Pro-Valentin.local" time="0.512">
+  <properties/>
+  <testcase name="whenAccountIsPresentThenReturnedSuccessfully()" classname="com.revolut.solution.dao.AccountDaoImplIntegrationTest" time="0.405"/>
+  <testcase name="whenAccountIdDuplicatedThenExceptionThrown()" classname="com.revolut.solution.dao.AccountDaoImplIntegrationTest" time="0.023"/>
+  <testcase name="whenUpdateNonExistingAccountThenExceptionThrown()" classname="com.revolut.solution.dao.AccountDaoImplIntegrationTest" time="0.018"/>
+  <testcase name="whenAccountIsValidThenSavedSuccessfully()" classname="com.revolut.solution.dao.AccountDaoImplIntegrationTest" time="0.017"/>
+  <testcase name="whenUpdateExistingAccountThenUpdatedSuccessfully()" classname="com.revolut.solution.dao.AccountDaoImplIntegrationTest" time="0.017"/>
+  <testcase name="whenAccountsArePresentThenAllReturnedSuccessfully()" classname="com.revolut.solution.dao.AccountDaoImplIntegrationTest" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

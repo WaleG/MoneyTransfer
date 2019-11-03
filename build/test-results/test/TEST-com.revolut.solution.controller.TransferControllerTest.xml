@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.revolut.solution.controller.TransferControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-03T21:34:12" hostname="MacBook-Pro-Valentin.local" time="0.035">
+  <properties/>
+  <testcase name="whenTransferBetweenAccountsThenReturnStatus()" classname="com.revolut.solution.controller.TransferControllerTest" time="0.035"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
